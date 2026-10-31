@@ -9,15 +9,16 @@
 Restaurantes · Tiendas y bodegas · Talleres · Consultorios · Clínicas dentales · Gimnasios
 
 <a href="https://sanorepos.web.app"><img src="https://img.shields.io/badge/Ver_todos_los_software-SanoRepos-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SanoRepos"></a>
+<a href="https://github.com/coxc4418-hue/SanoRepos"><img src="https://img.shields.io/badge/Código_de_la_vitrina-SanoRepos-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Código de SanoRepos"></a>
 <a href="https://wa.me/584221906045"><img src="https://img.shields.io/badge/WhatsApp-+58_422_190_6045-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 </div>
 
 ---
 
-## 👋 Hola
+## 👋 Hola, somos Sano_Dev
 
-Creo **software de gestión** pensado para el día a día de cada negocio: vender, cobrar, agendar, llevar el inventario y atender mejor a los clientes.
+Creamos **software de gestión** pensado para el día a día de cada negocio: vender, cobrar, agendar, llevar el inventario y atender mejor a los clientes.
 
 - 📲 **Se instalan como app** en el teléfono, la tablet o la computadora, sin tiendas ni descargas.
 - 🧪 **Prueba gratis 30 minutos** con datos de ejemplo, sin registrarte.
@@ -26,7 +27,7 @@ Creo **software de gestión** pensado para el día a día de cada negocio: vende
 
 ---
 
-## 🚀 Mis software
+## 🚀 Nuestros software
 
 <table>
   <tr>
@@ -75,7 +76,7 @@ Creo **software de gestión** pensado para el día a día de cada negocio: vende
 
 ---
 
-## 🛠️ Con qué los construyo
+## 🛠️ Con qué los construimos
 
 <div align="center">
 
@@ -92,20 +93,20 @@ Creo **software de gestión** pensado para el día a día de cada negocio: vende
 
 ---
 
-## 🐍 Mi actividad
+## 🐍 Nuestra actividad
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coxc4418-hue/coxc4418-hue/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coxc4418-hue/coxc4418-hue/output/snake.svg">
-  <img alt="La serpiente recorriendo mis contribuciones" src="https://raw.githubusercontent.com/coxc4418-hue/coxc4418-hue/output/snake.svg" width="100%">
+  <img alt="La serpiente recorriendo nuestras contribuciones" src="https://raw.githubusercontent.com/coxc4418-hue/coxc4418-hue/output/snake.svg" width="100%">
 </picture>
 
 ---
 
 <div align="center">
 
-**¿Tienes un negocio y quieres organizarlo?** Escríbeme y te muestro el sistema ideal para ti.
+**¿Tienes un negocio y quieres organizarlo?** Escríbenos y te mostramos el sistema ideal para ti.
 
-<a href="https://wa.me/584221906045"><img src="https://img.shields.io/badge/Escríbeme_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://wa.me/584221906045"><img src="https://img.shields.io/badge/Escríbenos_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 </div>
