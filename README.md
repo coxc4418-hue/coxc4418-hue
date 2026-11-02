@@ -72,6 +72,16 @@ Creamos **software de gestión** pensado para el día a día de cada negocio: ve
       <a href="https://sano-gym.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoGym">📦 Código</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sano-cortes.web.app"><img src="assets/sano-cortes.jpg" alt="SanoCortes" width="100%"></a>
+      <h3>💈 SanoCortes</h3>
+      Agenda por barbero, reservas en línea, sala de espera y pago a barberos para barberías.<br><br>
+      <a href="https://sano-cortes.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoCortes">📦 Código</a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
