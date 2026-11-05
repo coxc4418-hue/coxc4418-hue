@@ -6,7 +6,7 @@
 
 ### Software para negocios de Latinoamérica, listo para usar desde el navegador
 
-Restaurantes · Tiendas y bodegas · Talleres · Consultorios · Clínicas dentales · Gimnasios · Barberías · Farmacias
+Restaurantes · Tiendas y bodegas · Talleres · Consultorios · Clínicas dentales · Gimnasios · Barberías · Farmacias · Veterinarias
 
 <a href="https://sanorepos.web.app"><img src="https://img.shields.io/badge/Ver_todos_los_software-SanoRepos-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SanoRepos"></a>
 <a href="https://github.com/coxc4418-hue/SanoRepos"><img src="https://img.shields.io/badge/Código_de_la_vitrina-SanoRepos-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Código de SanoRepos"></a>
@@ -85,6 +85,15 @@ Creamos **software de gestión** pensado para el día a día de cada negocio: ve
       Venta por caja, blíster o unidad, lotes y vencimientos, recetas y pedidos en línea para farmacias.<br><br>
       <a href="https://sano-farmacia.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoFarmacia">📦 Código</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sano-vet.web.app"><img src="assets/sano-vet.jpg" alt="SanoVet" width="100%"></a>
+      <h3>🐾 SanoVet</h3>
+      Historia clínica, vacunas con carnet digital, agenda, peluquería y tienda para clínicas veterinarias.<br><br>
+      <a href="https://sano-vet.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoVet">📦 Código</a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
