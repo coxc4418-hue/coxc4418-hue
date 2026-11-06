@@ -6,7 +6,7 @@
 
 ### Software para negocios de Latinoamérica, listo para usar desde el navegador
 
-Restaurantes · Tiendas y bodegas · Talleres · Consultorios · Clínicas dentales · Gimnasios · Barberías · Farmacias · Veterinarias
+Restaurantes · Tiendas y bodegas · Talleres · Consultorios · Clínicas dentales · Gimnasios · Barberías · Farmacias · Veterinarias · Autolavados
 
 <a href="https://sanorepos.web.app"><img src="https://img.shields.io/badge/Ver_todos_los_software-SanoRepos-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SanoRepos"></a>
 <a href="https://github.com/coxc4418-hue/SanoRepos"><img src="https://img.shields.io/badge/Código_de_la_vitrina-SanoRepos-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Código de SanoRepos"></a>
@@ -93,7 +93,12 @@ Creamos **software de gestión** pensado para el día a día de cada negocio: ve
       Historia clínica, vacunas con carnet digital, agenda, peluquería y tienda para clínicas veterinarias.<br><br>
       <a href="https://sano-vet.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoVet">📦 Código</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://sano-taller.web.app"><img src="assets/sano-taller.jpg" alt="SanoTaller" width="100%"></a>
+      <h3>🔧 SanoTaller</h3>
+      Órdenes de trabajo, presupuesto aprobado desde el teléfono, mantenimiento por kilometraje, autolavado y repuestos.<br><br>
+      <a href="https://sano-taller.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoTaller">📦 Código</a>
+    </td>
   </tr>
 </table>
 
