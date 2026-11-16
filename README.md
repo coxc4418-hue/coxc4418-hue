@@ -114,6 +114,15 @@ Creamos **software de gestión** pensado para el día a día de cada negocio: ve
       <a href="https://sano-licores.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoLicores">📦 Código</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sano-condominio.web.app"><img src="assets/sano-condominio.jpg" alt="SanoCondominio" width="100%"></a>
+      <h3>🏢 SanoCondominio</h3>
+      Recibos por alícuota, cobranza en dólares y bolívares a tasa BCV, portal del propietario, votaciones y reservas para condominios.<br><br>
+      <a href="https://sano-condominio.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoCondominio">📦 Código</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
