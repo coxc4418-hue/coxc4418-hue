@@ -107,7 +107,12 @@ Creamos **software de gestión** pensado para el día a día de cada negocio: ve
       Agenda de sesiones, asistencia con QR, rutinas con ejercicios guiados y el progreso de cada alumno en su carnet.<br><br>
       <a href="https://sano-entrenador.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoEntrenador">📦 Código</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://sano-licores.web.app"><img src="assets/sano-licores.jpg" alt="SanoLicores" width="100%"></a>
+      <h3>🍾 SanoLicores</h3>
+      Venta por unidad, six-pack o caja, fría o al mayor, envases retornables, combos, fiado con límite y pedidos en línea.<br><br>
+      <a href="https://sano-licores.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoLicores">📦 Código</a>
+    </td>
   </tr>
 </table>
 
