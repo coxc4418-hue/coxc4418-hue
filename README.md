@@ -121,7 +121,12 @@ Creamos **software de gestión** pensado para el día a día de cada negocio: ve
       Recibos por alícuota, cobranza en dólares y bolívares a tasa BCV, portal del propietario, votaciones y reservas para condominios.<br><br>
       <a href="https://sano-condominio.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoCondominio">📦 Código</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://sano-academia.web.app"><img src="assets/sano-academia.jpg" alt="SanoAcademia" width="100%"></a>
+      <h3>🎓 SanoAcademia</h3>
+      Horario sin choques, asistencia con aviso al representante, notas y boletines, mensualidades en dólares y bolívares, portal del alumno y del profesor.<br><br>
+      <a href="https://sano-academia.web.app">🌐 Probar</a> · <a href="https://github.com/coxc4418-hue/SanoAcademia">📦 Código</a>
+    </td>
   </tr>
 </table>
 
